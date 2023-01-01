@@ -101,7 +101,7 @@ namespace Muttual.Model
                 }
 
             }
-            catch (Exception ex)
+            catch
             {
                 // throw;
             }
